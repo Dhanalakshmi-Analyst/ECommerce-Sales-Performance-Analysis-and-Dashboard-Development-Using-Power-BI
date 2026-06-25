@@ -1,0 +1,2 @@
+# ECommerce-Sales-Performance-Analysis-and-Dashboard-Development-Using-Power-BI
+This project analyzes e-commerce sales data using Power BI and DAX. It includes data modeling, calculated columns, measures, and interactive visualizations to evaluate sales performance, profitability, sales targets, and regional trends. The dashboard helps businesses make data-driven decisions through clear and interactive reporting.
